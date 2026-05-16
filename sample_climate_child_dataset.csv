@@ -1,0 +1,46 @@
+# Sample Dataset
+
+The MVP prototype currently uses a simulated demonstration dataset representing climate and child vulnerability indicators from climate-sensitive regions.
+
+| Region | Rainfall Intensity | Temperature | Flood Risk | Air Pollution | Child Climate Risk Score | Predicted Threat |
+|---|---|---|---|---|---|---|
+| Kisumu | 78 | 31 | 82 | 45 | 82 | Flood-related diarrheal disease |
+| Turkana | 22 | 41 | 18 | 37 | 91 | Heat stress and malnutrition |
+| Nairobi Informal Settlements | 55 | 29 | 63 | 81 | 74 | Respiratory illness |
+| Garissa | 18 | 39 | 25 | 42 | 69 | Water insecurity |
+| Mombasa | 71 | 33 | 77 | 58 | 77 | Flood-associated malaria |
+
+## Dataset Variables
+
+### Rainfall Intensity
+Simulated climate rainfall indicator (0–100 scale).
+
+### Temperature
+Average environmental temperature conditions.
+
+### Flood Risk
+Estimated flood vulnerability indicator.
+
+### Air Pollution
+Relative air quality and pollution exposure indicator.
+
+### Child Climate Risk Score
+AI-generated composite child climate vulnerability score.
+
+### Predicted Threat
+Dominant predicted climate-health threat affecting children.
+
+## Purpose of Dataset
+
+This demonstration dataset is used to:
+- simulate AI-powered child climate-health prediction workflows,
+- demonstrate vulnerability scoring,
+- generate climate-health forecasts,
+- and visualize anticipatory early warning outputs.
+
+Future platform development will support integration with:
+- climate APIs,
+- geospatial datasets,
+- disease surveillance systems,
+- nutrition monitoring systems,
+- and humanitarian response data streams.
