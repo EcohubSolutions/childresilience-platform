@@ -1,16 +1,15 @@
 # childresilience-platform
 AI-powered predictive climate resilience infrastructure for vulnerable children in low-resource settings, that helps governments, health systems, and humanitarian actors identify and respond to climate-related risks affecting vulnerable children through climate-health forecasting, vulnerability mapping, and anticipatory early warning intelligence.
-# 🌍 CHILDRESILIENCE AI
+CHILDRESILIENCE AI
 
-## AI-Powered Predictive Climate Resilience Platform for Vulnerable Children
+AI-Powered Predictive Climate Resilience Platform for Vulnerable Children
 
 CHILDRESILIENCE AI is an AI-powered anticipatory climate-health intelligence platform designed to help governments, health systems, schools, and humanitarian actors identify and respond to climate-related risks affecting vulnerable children before crises escalate.
 
 The platform integrates climate, environmental, and health indicators to generate predictive child vulnerability insights, early warning alerts, and actionable resilience intelligence for low-resource and climate-vulnerable settings.
 
----
 
-# Project Overview
+Project Overview
 
 Climate change is increasingly contributing to childhood disease outbreaks, malnutrition, respiratory illness, heat stress, displacement, and disruption of essential services in vulnerable communities. Existing systems are often fragmented and reactive, limiting the ability of frontline actors to intervene early.
 
@@ -18,9 +17,7 @@ CHILDRESILIENCE AI addresses this challenge by combining artificial intelligence
 
 The MVP prototype demonstrates how climate and environmental indicators can be transformed into predictive climate-health risk intelligence capable of supporting anticipatory action and resilience planning.
 
----
-
-# Problem Statement
+Problem Statement
 
 Children are among the populations most vulnerable to climate-related risks, particularly in low-resource settings affected by floods, droughts, extreme heat, food insecurity, water scarcity, and poor air quality.
 
@@ -37,9 +34,7 @@ As a result:
 
 There is an urgent need for predictive, AI-enabled child climate resilience systems capable of generating actionable early warning intelligence before crises escalate.
 
----
-
-# Solution Description
+Solution Description
 
 CHILDRESILIENCE AI is an open-source AI-powered predictive resilience platform that transforms climate, environmental, and health data into actionable child vulnerability intelligence.
 
@@ -63,11 +58,9 @@ Potential future use cases include:
 - flood-related child vulnerability monitoring,
 - and climate-resilient humanitarian planning.
 
----
+ Architecture
 
-# Architecture
-
-## Data Inputs
+Data Inputs
 The platform integrates:
 - climate and weather data,
 - environmental indicators,
@@ -77,27 +70,21 @@ The platform integrates:
 - nutrition trends,
 - and community vulnerability data.
 
-↓
-
-## AI Prediction Engine
+AI Prediction Engine
 Machine learning models analyze incoming indicators to:
 - predict climate-sensitive child health risks,
 - generate vulnerability scores,
 - identify hotspot regions,
 - and forecast emerging threats.
 
-↓
-
-## Intelligence Layer
+Intelligence Layer
 The platform converts predictions into:
 - risk dashboards,
 - climate-health forecasts,
 - vulnerability maps,
 - and anticipatory alerts.
 
-↓
-
-## Decision Support
+Decision Support
 Outputs support:
 - health system preparedness,
 - early intervention planning,
@@ -105,9 +92,7 @@ Outputs support:
 - community outreach,
 - and child resilience planning.
 
----
-
-# Current MVP Features
+Current MVP Features
 
 - AI-powered climate-health risk scoring
 - Predictive pediatric risk forecasting
@@ -116,9 +101,7 @@ Outputs support:
 - Climate-health threat visualization
 - Anticipatory action recommendations
 
----
-
-# Technology Stack
+Technology Stack
 
 - Python
 - Streamlit
@@ -128,14 +111,7 @@ Outputs support:
 - Scikit-learn
 - GIS and geospatial analytics (planned)
 
----
-
-# Open Source Commitment
+Open Source Commitment
 
 CHILDRESILIENCE AI is being developed as an open and interoperable climate-health intelligence platform aligned with digital public good principles to support scalable deployment in climate-vulnerable communities globally.
 
----
-
-# License
-
-MIT License
