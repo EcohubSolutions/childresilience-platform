@@ -76,7 +76,6 @@ The platform aggregates climate, environmental, and child vulnerability indicato
 ### Data Processing
 Incoming datasets are cleaned, standardized, and transformed into structured inputs suitable for AI-driven analysis and predictive modeling.
 
----
 
 # 2. AI Prediction Workflow
 
@@ -99,7 +98,6 @@ The AI prediction engine processes climate and health indicators to identify eme
 - Predicted disease outbreak risks
 - Heat-stress and flood-related alerts
 
----
 
 # 3. Early Warning Workflow
 
@@ -119,7 +117,6 @@ Alerts may be delivered through:
 - WhatsApp alerts,
 - and offline-compatible systems.
 
----
 
 # 4. Decision Support Workflow
 
@@ -133,7 +130,6 @@ The system supports governments, health systems, and humanitarian actors in plan
 - Issuing public health advisories
 - Supporting climate adaptation planning
 
----
 
 # 5. Frontline User Workflow
 
@@ -162,7 +158,7 @@ The health system activates targeted preparedness and response interventions bef
 
 ---
 
-# 6. Future Workflow Expansion
+# Future Workflow Expansion
 
 Future platform versions may support:
 - real-time geospatial analytics,
