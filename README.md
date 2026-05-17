@@ -114,6 +114,21 @@ Technology Stack
 Open Source Commitment
 
 CHILDRESILIENCE AI is being developed as an open and interoperable climate-health intelligence platform aligned with digital public good principles to support scalable deployment in climate-vulnerable communities globally.
+# How to Run the MVP
+
+## Install Required Packages
+
+```bash
+pip install -r requirements.txt
+```
+
+## Launch the Application
+
+```bash
+streamlit run app.py
+```
+
+The dashboard will open automatically in your browser.
 
 ## MVP Demo Video
 [https://youtu.be/xYYuHVq9ug4]
