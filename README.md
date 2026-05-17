@@ -115,3 +115,5 @@ Open Source Commitment
 
 CHILDRESILIENCE AI is being developed as an open and interoperable climate-health intelligence platform aligned with digital public good principles to support scalable deployment in climate-vulnerable communities globally.
 
+## MVP Demo Video
+[https://youtu.be/xYYuHVq9ug4]
