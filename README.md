@@ -129,6 +129,9 @@ streamlit run app.py
 ```
 
 The dashboard will open automatically in your browser.
+# License
+
+This project is licensed under the MIT License to support open, scalable, and interoperable climate-health innovation.
 
 ## MVP Demo Video
 [https://youtu.be/xYYuHVq9ug4]
